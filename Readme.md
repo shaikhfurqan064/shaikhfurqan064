@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Shaikh Furqan </h1>
-<p>A passionate frontend developer from </p>
+<p>🚀Hello, Tech enthusiasts! I'm Shaikh Furqan the Enthusiastic developer.This  Repository is curated collection of  code and resources and representing  my expertise in AWS,AZURE,DevOPs,PYTHON,C,C++ and AI  </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
